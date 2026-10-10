@@ -1,0 +1,9 @@
+.env
+*.env
+*.json
+*.db
+*.log
+*token*
+*secret*
+__pycache__/
+node_modules/
